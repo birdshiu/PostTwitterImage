@@ -1,0 +1,7 @@
+D:\VisualStudio\C#\TwitterPostImage\TwitterPostImage\bin\Debug\TwitterPostImage.exe.config
+D:\VisualStudio\C#\TwitterPostImage\TwitterPostImage\bin\Debug\TwitterPostImage.exe
+D:\VisualStudio\C#\TwitterPostImage\TwitterPostImage\bin\Debug\TwitterPostImage.pdb
+D:\VisualStudio\C#\TwitterPostImage\TwitterPostImage\obj\Debug\TwitterPostImage.csproj.AssemblyReference.cache
+D:\VisualStudio\C#\TwitterPostImage\TwitterPostImage\obj\Debug\TwitterPostImage.csproj.CoreCompileInputs.cache
+D:\VisualStudio\C#\TwitterPostImage\TwitterPostImage\obj\Debug\TwitterPostImage.exe
+D:\VisualStudio\C#\TwitterPostImage\TwitterPostImage\obj\Debug\TwitterPostImage.pdb
